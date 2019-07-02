@@ -9,7 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <properties>
-        <fabric8.namespace>myproject</fabric8.namespace>
+        <fabric8.namespace>default</fabric8.namespace>
         <options.debug>-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=8787</options.debug>
         <options.useIPv4>-Djava.net.preferIPv4Stack=true</options.useIPv4>
     </properties>

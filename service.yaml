@@ -10,8 +10,6 @@ metadata:
   name: jgroups-dns-ping
   namespace: myproject
   resourceVersion: "19262"
-  selfLink: /api/v1/namespaces/myproject/services/jgroups-dns-ping
-  uid: 3fa8fcdb-c6b3-11e6-bfce-54ee751d46e3
 spec:
   clusterIP: None
   ports:
